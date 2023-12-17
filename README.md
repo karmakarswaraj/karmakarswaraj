@@ -113,7 +113,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://preview.redd.it/746lf4opooa51.jpg?auto=webp&s=ccf2282f133437c0df6e2307732741accb81002e"  />
+  <img height="500" src="https://thecodinglove.com/content/015/FNwtXOo.gif"  />
 </div>
 
 ###
