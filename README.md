@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swaraj Karmakar</h1>
 <h3 align="center">I usually spend my days over my screen coding and learning more about coding.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karmakarswaraj&label=Profile%20views&color=0e75b6&style=flat" alt="karmakarswaraj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karmakarswaraj" alt="karmakarswaraj" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hello_swaraj" target="blank"><img src="https://img.shields.io/twitter/follow/hello_swaraj?logo=twitter&style=for-the-badge" alt="hello_swaraj" /></a> </p>
-
-- 📫 How to reach me **swarajkarmakar5@gmail.com**
-
-<h3 align="left">Connect with me:</h3># 💫 About Me:
-🔭 I’m currently working on E-Commerce website<br>🤝 I’m looking for help with React.Js<br>🌱 I’m currently learning React<br>
-
-
 ## 🌐 Socials:
 # 💫 About Me:
 🔭 I’m currently working on E-Commerce website<br>🤝 I’m looking for help with React.Js<br>🌱 I’m currently learning React<br>
