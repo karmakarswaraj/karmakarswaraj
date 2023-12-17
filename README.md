@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swaraj Karmakar</h1>
 <h3 align="center">I usually spend my days over my screen coding and learning more about coding.</h3>
 
-## 🌐 Socials:
 # 💫 About Me:
 🔭 I’m currently working on E-Commerce website<br>🤝 I’m looking for help with React.Js<br>🌱 I’m currently learning React<br>
 
