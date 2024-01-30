@@ -94,7 +94,6 @@ How to reach me **swarajkarmakar5@gmail.com**
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/karmakarswaraj/karmakarswaraj/output/snake.svg" alt="Snake animation" />
 
 ###
 
