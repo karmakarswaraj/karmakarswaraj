@@ -65,7 +65,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="[https://i.imgflip.com/65efzo.gif](https://imgflip.com/i/8hze05)https://imgflip.com/i/8hze05"  />
+  <iframe src="https://giphy.com/embed/CZlAx4kvxHHPy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 ###
