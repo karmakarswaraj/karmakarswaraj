@@ -64,8 +64,4 @@
 
 <br clear="both">
 
-
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/CZlAx4kvxHHPy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mrw-character-ive-CZlAx4kvxHHPy">via GIPHY</a></p>
-
-
 ###
