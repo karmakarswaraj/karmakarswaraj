@@ -64,8 +64,8 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://giphy.com/embed/CZlAx4kvxHHPy" width="50%" height="50%" class="giphy-embed" >
-</div>
+
+  <img src="https://giphy.com/embed/CZlAx4kvxHHPy" width="400">
+
 
 ###
