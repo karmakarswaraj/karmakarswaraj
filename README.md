@@ -26,6 +26,10 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="61" alt="vscode logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=netlify" height="61" alt="netlify logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="61" alt="bootstrap logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="61" alt="git logo"  />
 </div>
 
 ###
